@@ -52,3 +52,32 @@ Song recommendations from dataset.
 - Build a Streamlit web app
 - Integrate Spotify API
 - Deploy recommendation system
+- 
+
+## Dataset Preview
+
+![Dataset Preview](dataset_preview.png)
+
+---
+
+## Genre Distribution
+
+![Genre Distribution](genre_distribution.png)
+
+---
+
+## Model Accuracy
+
+![Model Accuracy](images/model_accuracy.png)
+
+---
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
