@@ -74,10 +74,10 @@ Song recommendations from dataset.
 
 ## Confusion Matrix
 
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix](confusionmatrix.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](feature_importance..png)
