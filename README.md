@@ -21,7 +21,7 @@ Features used:
 Random Forest Classifier
 
 Accuracy Achieved:
-~70–80%
+~60%
 
 ## Workflow
 1. Data cleaning
@@ -52,7 +52,6 @@ Song recommendations from dataset.
 - Build a Streamlit web app
 - Integrate Spotify API
 - Deploy recommendation system
-- 
 
 ## Dataset Preview
 
@@ -80,4 +79,4 @@ Song recommendations from dataset.
 
 ## Feature Importance
 
-![Feature Importance](feature _importance.png)
+![Feature Importance](feature_importance..png)
