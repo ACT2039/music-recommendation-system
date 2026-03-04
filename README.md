@@ -68,16 +68,16 @@ Song recommendations from dataset.
 
 ## Model Accuracy
 
-![Model Accuracy](images/model_accuracy.png)
+![Model Accuracy](model_accuracy.png)
 
 ---
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion matrix.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
